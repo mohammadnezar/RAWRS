@@ -1,6 +1,6 @@
 # SolanaNSB - A Solana NFT Sales Bot
 
-SolanaNSB is a bot that track your NFT sales on Secondery Marketplaces
+SolanaNSB is a bot that track your NFT sales on Secondeery Marketplaces
 
 ## About
 This bot created by [NoamPeretz](https://github.com/byfunkz) . The Bot created for my project - [@koalasnft_](https://twitter.com/koalasnft_). If this will help you please support me by follow me on Twitter 🐦
